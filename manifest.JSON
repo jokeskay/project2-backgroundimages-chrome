@@ -10,8 +10,8 @@
 "browser_action": 
 {
   "default_title":
-  "default_icon":
-  "default_popup":
+  "default_icon":,
+  "default_popup":,
 
 "permissions": 
   [
