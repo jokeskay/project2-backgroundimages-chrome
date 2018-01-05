@@ -7,13 +7,16 @@
   "128": "mickeyMswag.jpg"
 }
 
-"browser_action": {
+"browser_action": 
+{
   "default_title":
   "default_icon":
   "default_popup":
 
-"permissions": [
-  "activeTab",
+"permissions": 
+  [
+  "http://*.google.com/", 
+  "https://*.google.com/",
   "storage"
                ]
   }
