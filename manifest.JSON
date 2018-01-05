@@ -15,7 +15,8 @@
 
 "browser_action": {
   "default_title":"change background for chrome pages",
-  "default_icon":"mickeyMswag.jpg"
+  "default_icon":"mickeyMswag.jpg",
+  "default_popup":"popup.html"
 },
 "permissions": [
   "http://*.google.com/", 
