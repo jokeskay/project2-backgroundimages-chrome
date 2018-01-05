@@ -6,7 +6,7 @@
 "description": "Pick from a collection of cool backgrounds",
     "background": {
         "scripts": [
-            "background.js"
+            "popup.js"
         ]
     },
 "icons": {
