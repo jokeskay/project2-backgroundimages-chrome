@@ -8,15 +8,12 @@
   "128": "mickeyMswag.jpg"
 },
 
-"browser_action": 
-{
+"browser_action": {
   "default_title":,
   "default_icon":,
-  "default_popup":,
+  "default_popup":
 },
-
-"permissions": 
-  [
+"permissions": [
   "http://*.google.com/", 
   "https://*.google.com/",
   "storage"
