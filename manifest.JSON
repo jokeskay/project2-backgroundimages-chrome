@@ -6,7 +6,7 @@
 "description": "Pick from a collection of cool backgrounds",
 "icons": {
   "128": "mickeyMswag.jpg"
-}
+},
 
 "browser_action": 
 {
