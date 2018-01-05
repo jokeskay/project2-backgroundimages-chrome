@@ -1,0 +1,19 @@
+"name": "change background for chrome",
+"version": 1.0.0,
+"manifest_version_" : 2
+
+"description": "Pick from a collection of cool backgrounds",
+"icons": {
+  "128": "mickeyMswag.jpg"
+}
+
+"browser_action": {
+  "default_title":
+  "default_icon":
+  "default_popup":
+
+"permissions": [
+  "activeTab",
+  "storage"
+               ]
+  }
