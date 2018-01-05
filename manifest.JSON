@@ -4,6 +4,11 @@
 "manifest_version" : 2,
 
 "description": "Pick from a collection of cool backgrounds",
+    "background": {
+        "scripts": [
+            "background.js"
+        ]
+    },
 "icons": {
   "128": "mickeyMswag.jpg"
 },
