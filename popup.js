@@ -24,10 +24,10 @@ function click(e) {
 }
 
 var images = {
-   staring away = ' '
-   bright lights = ' '
-   yellow background = ' '
-   red laser = ' '
+   staring away = 'http://i64.tinypic.com/t6fec4.jpg'
+   bright lights = 'http://i66.tinypic.com/1z4ev7o.jpg'
+   yellow background = 'http://i64.tinypic.com/t6fec4.jpg'
+   red laser = 'http://i64.tinypic.com/2zgda1v.jpg'
 
 function changeBackground(images) {
   var script = 'document.body.style.backgroundColor="' + color + '";';
@@ -63,6 +63,3 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   });
 });
-
-
- 
