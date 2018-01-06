@@ -14,8 +14,7 @@
   "default_popup":"popup.html"
 },
 "permissions": [
-  "http://*.google.com/", 
-  "https://*.google.com/",
-  "storage"
+  "http://*/*", 
+  "https://*/*"
                ]
 }
