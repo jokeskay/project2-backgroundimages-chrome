@@ -6,7 +6,7 @@ function click(e) {
       {code:"document.body.style.backgroundImage='url(" + images[e.target.id] 
         + "'"});
    window.close();
-}
+},
 
 document.addEventListener(DOMContentLoaded', function() {
    var divs=document.querySelectorAll('div');
