@@ -16,6 +16,19 @@ function getCurrentTabUrl(callback) {
   });
 }
 
+function click(e) {
+   chrome.tabs.executeScript(null,
+      {code:"document.body.style.backgroundImage='url(" + images[e.target.id] 
+        + "'"});
+   window.close();
+}
+
+var images = {
+   staring away = ' '
+   bright lights = ' '
+   yellow background = ' '
+   red laser = ' '
+
 function changeBackground(images) {
   var script = 'document.body.style.backgroundColor="' + color + '";';
   chrome.tabs.executeScript({
