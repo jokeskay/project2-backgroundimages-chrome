@@ -5,12 +5,12 @@
 
 "description": "Pick from a collection of cool backgrounds",
 "icons": {
-  "128": "mickeyMswag.jpg"
+  "128": "Moon-PNG-Photo.png"
 },
 
 "browser_action": {
   "default_title":"change background for chrome pages",
-  "default_icon":"mickeyMswag.jpg",
+  "default_icon":"Moon-PNG-Photo.png",
   "default_popup":"popup.html"
 },
 "permissions": [
