@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 var images = {
 staring away: 'staring-away.png',
-bright lights: 'http://i66.tinypic.com/1z4ev7o.jpg',
-yellow background: 'http://i64.tinypic.com/t6fec4.jpg',
-red laser: 'http://i64.tinypic.com/2zgda1v.jpg'
+bright lights: 'bright-lights.png',
+yellow background: 'yellow-background.png',
+red laser: 'red-laser.png'
 }
